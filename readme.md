@@ -1,6 +1,6 @@
 介绍：用java实现的简单解释器，learn by doing 系列。
 
-参考资料：[cracking interpeters](http://www.craftinginterpreters.com/contents.html)
+参考资料：[cracking interpreter](http://www.craftinginterpreters.com/contents.html)
 
 #### 目的：
 
